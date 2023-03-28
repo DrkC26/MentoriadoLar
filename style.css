@@ -198,8 +198,10 @@ footer a:hover{
 
 /* HEADER */
     .menu-mobile{
+        margin: 0 auto;
         margin-top: 10px;
         display: block;
+        width: 90%;
     }
 
     .logo1{
