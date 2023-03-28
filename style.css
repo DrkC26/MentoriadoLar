@@ -169,6 +169,9 @@ footer a:hover{
     filter: drop-shadow(15px 10px 5px rgba(0, 0, 0, .4))
 }
 
+.footermobile{
+    display: none;
+}
 
 .logo{
     width: 55%;
