@@ -218,7 +218,7 @@ footer a:hover{
     }
 
     .slides-single img {
-        height: 100px;
+        height: 250px;
     }
 
     .slides-box{
@@ -249,10 +249,6 @@ footer a:hover{
 
     .col-md-4{
         display: none;
-    }
-
-    .slides-single img {
-        height: 320px;
     }
 
     .slogan h5{
