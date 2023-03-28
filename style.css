@@ -231,21 +231,22 @@ footer a:hover{
     }
 
 /* FOOTER */
+    .footerDesk{
+        display: none;
+    }
+
     .slogan{
         display: none;
     }
 
-    .logo2 img{
-        width: 110%;
+    .logoMob{
+        width: 50%;
     }
 
-    .contato img{
-        width: 20%;
-    }
+    .footermobile{
+        text-align: center
+    };
 
-    footer a{
-        padding: 2px;
-    }
 
 }
 
