@@ -243,6 +243,10 @@ footer a:hover{
         width: 20%;
     }
 
+    footer a{
+        padding: 2px;
+    }
+
 }
 
 @media (max-width: 1000px){
