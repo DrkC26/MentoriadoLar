@@ -103,7 +103,7 @@ li.slick-active button{
 /* SLIDES */
 .slides{
     background-color: #fce6fa;
-    padding: 75px 0;
+    padding: 75px 0px;
 }
 
 .slides-box {
@@ -136,10 +136,6 @@ li.slick-active button{
     cursor: grab;
     box-shadow: 10px 10px 15px 7px rgba(0, 0, 0, 0.75);
     border-radius: 5px;
-}
-
-section.slides-slider {
-    padding: 10px 0;
 }
 
 .encontros p{
@@ -250,6 +246,11 @@ footer a:hover{
     .col-md-4{
         display: none;
     }
+
+    .slides-single img {
+        height: 320px;
+    }
+
     .slogan h5{
         font-size: 30px;
     }
