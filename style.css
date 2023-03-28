@@ -217,6 +217,10 @@ footer a:hover{
         display: none;
     }
 
+    .slides-single img {
+        height: 250px;
+    }
+
     .slides-box{
         width: 90%;
     }
