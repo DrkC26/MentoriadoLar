@@ -21,6 +21,10 @@ body{
     background-repeat: no-repeat;
 }
 
+.logo1{
+    width: 45%;
+}
+
 .menu{
     float: right;
 }
