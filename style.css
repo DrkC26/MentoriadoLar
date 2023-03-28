@@ -251,6 +251,10 @@ footer a:hover{
         display: none;
     }
 
+    .slides-single img {
+        height: 250px;
+    }
+
     .slogan h5{
         font-size: 30px;
     }
