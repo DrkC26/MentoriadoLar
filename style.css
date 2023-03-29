@@ -40,7 +40,7 @@ body{
 
 .title{
     text-align: center;
-    color: yellow;
+    color: rgb(255, 0, 191);
     font-weight: 900;
     text-shadow: 2px 2px 2px #000000;
 }
